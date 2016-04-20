@@ -1,0 +1,20 @@
+ <html>
+ <head>
+    <title>的游戏历史'</title>
+    <link rel="stylesheet" type="text/css" href="http://localhost/frontend/style/profile.css" />
+ </head>
+ <body>
+    <div class="header">
+        <img src="http://localhost/frontend/img/logo/banner_logo.png" id="banner_logo" >
+        <span id="banner_title">history</span>
+        <div class="profile" id="<?php echo $userInfo['userName']; ?>">
+            <img src="../../upload/default.png" id="avatar" />
+            <a id="name" href="userProfile.php?id=<?php echo $userInfo['userName']; ?>"><?php echo $userInfo['userName']; ?></a>
+            <a id="singout" href="http://localhost/">退出</a>
+        </div>
+    </div>
+    <div id="body">
+    
+    </div>
+ </body>
+ </html>

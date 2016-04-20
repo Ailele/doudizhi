@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1113b421-6f16-4704-8636-a87d9bbdeda0" name="Default" comment="" />
+    <ignored path="card.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="card" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RoomManager.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/src/class/RoomManager.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="387" column="0" selection-start-line="387" selection-start-column="0" selection-end-line="387" selection-end-column="0" />
+              <folding>
+                <element signature="e#433#511#0#PHP" expanded="false" />
+                <element signature="e#559#608#0#PHP" expanded="false" />
+                <element signature="e#815#982#0#PHP" expanded="false" />
+                <element signature="e#986#1155#0#PHP" expanded="false" />
+                <element signature="e#1159#1178#0#PHP" expanded="false" />
+                <element signature="e#1500#2455#0#PHP" expanded="false" />
+                <element signature="e#1598#1935#0#PHP" expanded="false" />
+                <element signature="e#1618#1719#0#PHP" expanded="false" />
+                <element signature="e#1723#1824#0#PHP" expanded="false" />
+                <element signature="e#1828#1931#0#PHP" expanded="false" />
+                <element signature="e#2021#2434#0#PHP" expanded="false" />
+                <element signature="e#2041#2139#0#PHP" expanded="false" />
+                <element signature="e#2165#2434#0#PHP" expanded="false" />
+                <element signature="e#2185#2283#0#PHP" expanded="false" />
+                <element signature="e#2304#2434#0#PHP" expanded="false" />
+                <element signature="e#2316#2416#0#PHP" expanded="false" />
+                <element signature="e#2458#2501#0#PHP" expanded="false" />
+                <element signature="e#2503#2969#0#PHP" expanded="false" />
+                <element signature="e#2701#2927#0#PHP" expanded="false" />
+                <element signature="e#2734#2828#0#PHP" expanded="false" />
+                <element signature="e#2832#2923#0#PHP" expanded="false" />
+                <element signature="e#2972#3039#0#PHP" expanded="false" />
+                <element signature="e#3041#3295#0#PHP" expanded="false" />
+                <element signature="e#3298#3992#0#PHP" expanded="false" />
+                <element signature="e#3996#4029#0#PHP" expanded="false" />
+                <element signature="e#4184#4287#0#PHP" expanded="false" />
+                <element signature="e#4330#4386#0#PHP" expanded="false" />
+                <element signature="e#4388#5456#0#PHP" expanded="false" />
+                <element signature="e#4687#5186#0#PHP" expanded="false" />
+                <element signature="e#4732#4948#0#PHP" expanded="false" />
+                <element signature="e#4860#4948#0#PHP" expanded="false" />
+                <element signature="e#4955#5186#0#PHP" expanded="false" />
+                <element signature="e#4967#5182#0#PHP" expanded="false" />
+                <element signature="e#5094#5182#0#PHP" expanded="false" />
+                <element signature="e#5394#5439#0#PHP" expanded="false" />
+                <element signature="e#5459#5489#0#PHP" expanded="false" />
+                <element signature="e#5759#5790#0#PHP" expanded="false" />
+                <element signature="e#5971#6016#0#PHP" expanded="false" />
+                <element signature="e#6329#6361#0#PHP" expanded="false" />
+                <element signature="e#6505#6539#0#PHP" expanded="false" />
+                <element signature="e#6546#6704#0#PHP" expanded="false" />
+                <element signature="e#6616#6700#0#PHP" expanded="false" />
+                <element signature="e#6668#6700#0#PHP" expanded="false" />
+                <element signature="e#6710#6768#0#PHP" expanded="false" />
+                <element signature="e#6890#6949#0#PHP" expanded="false" />
+                <element signature="e#6951#7192#0#PHP" expanded="false" />
+                <element signature="e#7137#7176#0#PHP" expanded="false" />
+                <element signature="e#7195#7236#0#PHP" expanded="false" />
+                <element signature="e#7510#7539#0#PHP" expanded="false" />
+                <element signature="e#7541#7690#0#PHP" expanded="false" />
+                <marker date="1459531946176" expanded="true" signature="664:725" placeholder="select roomP..room..." />
+                <marker date="1459531946176" expanded="false" signature="686:696" placeholder="select roomT..room..." />
+                <marker date="1459531946176" expanded="false" signature="835:896" placeholder="select roomP..room..." />
+                <marker date="1459531946176" expanded="false" signature="1006:1069" placeholder="select roomP..room..." />
+                <marker date="1459531946176" expanded="true" signature="1254:1287" placeholder="select cardL..." />
+                <marker date="1459531946176" expanded="true" signature="1254:1298" placeholder="select cardL..card..." />
+                <marker date="1459531946176" expanded="true" signature="1254:1310" placeholder="select cardL..card..." />
+                <marker date="1459531946176" expanded="true" signature="1254:1312" placeholder="select cardL..card..." />
+                <marker date="1459531946176" expanded="true" signature="1254:1318" placeholder="select cardL..card..." />
+                <marker date="1459531946176" expanded="true" signature="1254:1348" placeholder="select cardL..card..." />
+                <marker date="1459531946176" expanded="false" signature="1638:1705" placeholder="select roomP..room..." />
+                <marker date="1459531946176" expanded="false" signature="1743:1810" placeholder="select roomP..room..." />
+                <marker date="1459531946176" expanded="false" signature="1848:1917" placeholder="select roomP..room..." />
+                <marker date="1459531946176" expanded="false" signature="2569:2601" placeholder="select roomT..room..." />
+                <marker date="1459531946176" expanded="false" signature="3426:3552" placeholder="update user ..." />
+                <marker date="1459531946176" expanded="false" signature="3603:3729" placeholder="update user ..." />
+                <marker date="1459531946176" expanded="false" signature="3780:3906" placeholder="update user ..." />
+                <marker date="1459531946176" expanded="false" signature="4080:4142" placeholder="select roomT..room..." />
+                <marker date="1459531946176" expanded="false" signature="5198:5342" placeholder="update room ..." />
+                <marker date="1459531946176" expanded="true" signature="5539:5598" placeholder="select roomD..room..." />
+                <marker date="1459531946176" expanded="true" signature="5836:5892" placeholder="select lordI..room..." />
+                <marker date="1459531946176" expanded="false" signature="7011:7086" placeholder="update room ..." />
+                <marker date="1459531946176" expanded="true" signature="7289:7354" placeholder="select roomP..room..." />
+                <marker date="1459531946176" expanded="false" signature="8264:8339" placeholder="select userL..user..." />
+                <marker date="1459531946176" expanded="false" signature="8521:8636" placeholder="select roomP..room..." />
+                <marker date="1459531946176" expanded="false" signature="9484:9524" placeholder="update room ..." />
+                <marker date="1459531946176" expanded="false" signature="9484:9564" placeholder="update room ..." />
+                <marker date="1459531946176" expanded="false" signature="9484:9566" placeholder="update room ..." />
+                <marker date="1459531946176" expanded="false" signature="9640:9720" placeholder="update room ..." />
+                <marker date="1459531946176" expanded="false" signature="9796:9878" placeholder="update room ..." />
+                <marker date="1459531946176" expanded="false" signature="9997:10071" placeholder="select roomP..room..." />
+                <marker date="1459531946176" expanded="false" signature="9997:10090" placeholder="select roomP..room..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/src/test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CardManager.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/src/class/CardManager.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="11" />
+              <folding>
+                <marker date="1459523230519" expanded="true" signature="751:911" placeholder="delete from ..." />
+                <marker date="1459523230519" expanded="true" signature="2138:2236" placeholder="select cardL..card..." />
+                <marker date="1459523230519" expanded="true" signature="2532:2625" placeholder="select roomP..room..." />
+                <marker date="1459523230519" expanded="true" signature="3114:3212" placeholder="select cardL..card..." />
+                <marker date="1459523230519" expanded="true" signature="3581:3704" placeholder="update card ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="listen.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/src/listen.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.961538">
+              <caret line="213" column="16" selection-start-line="213" selection-start-column="16" selection-end-line="213" selection-end-column="16" />
+              <folding>
+                <element signature="e#1064#6906#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deleteRoom.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backend/src/lib/deleteRoom.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3642857">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+              <folding>
+                <marker date="1459554634252" expanded="true" signature="171:206" placeholder="delete from ..." />
+                <marker date="1459554634252" expanded="true" signature="252:291" placeholder="delete from ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="room.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/js/room.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="201" column="26" selection-start-line="201" selection-start-column="26" selection-end-line="201" selection-end-column="26" />
+              <folding>
+                <marker date="1459554326514" expanded="true" signature="371:805" placeholder="{...}" />
+                <marker date="1459554326514" expanded="true" signature="646:805" placeholder="{...}" />
+                <marker date="1459554326514" expanded="true" signature="713:787" placeholder="{...}" />
+                <marker date="1459554326514" expanded="true" signature="799:805" placeholder="{...}" />
+                <marker date="1459554326514" expanded="true" signature="8687:8809" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Database.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/src/class/Database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="38" column="35" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="35" />
+              <folding>
+                <marker date="1459484151982" expanded="true" signature="717:772" placeholder="select userN..user..." />
+                <marker date="1459484151982" expanded="true" signature="1143:1191" placeholder="select * fro..user..." />
+                <marker date="1459484151982" expanded="true" signature="1462:1517" placeholder="select userN..user..." />
+                <marker date="1459484151982" expanded="true" signature="1747:1796" placeholder="select * fro..room..." />
+                <marker date="1459484151982" expanded="true" signature="1954:2002" placeholder="select * fro..user..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gameover.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/src/lib/gameover.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+              <folding>
+                <marker date="1459527327505" expanded="true" signature="752:794" placeholder="delete from ..." />
+                <marker date="1459527327505" expanded="true" signature="861:907" placeholder="delete from ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/backend/register.php" />
+        <option value="$PROJECT_DIR$/backend/login.php" />
+        <option value="$PROJECT_DIR$/backend/src/Database.php" />
+        <option value="$PROJECT_DIR$/backend/src/Validate.php" />
+        <option value="$PROJECT_DIR$/backend/src/CardFunctions.php" />
+        <option value="$PROJECT_DIR$/backend/src/lib/Validate.php" />
+        <option value="$PROJECT_DIR$/backend/src/lib/validateRegister.php" />
+        <option value="$PROJECT_DIR$/backend/src/class/square.php" />
+        <option value="$PROJECT_DIR$/backend/src/template/square.html" />
+        <option value="$PROJECT_DIR$/backend/src/template/squaretpl.html" />
+        <option value="$PROJECT_DIR$/frontend/html/square.html" />
+        <option value="$PROJECT_DIR$/frontend/template/test.html" />
+        <option value="$PROJECT_DIR$/backend/src/userProfile.php" />
+        <option value="$PROJECT_DIR$/backend/src/class/square_class.php" />
+        <option value="$PROJECT_DIR$/backend/src/square.php" />
+        <option value="$PROJECT_DIR$/backend/src/lib/square.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/frontend/js/index.js" />
+        <option value="$PROJECT_DIR$/frontend/js/square.js" />
+        <option value="$PROJECT_DIR$/backend/src/lib/updateActiveTimesaamp.php" />
+        <option value="$PROJECT_DIR$/backend/src/lib/updateActiveTimestamp.php" />
+        <option value="$PROJECT_DIR$/backend/src/class/UserManager.php" />
+        <option value="$PROJECT_DIR$/backend/src/lib/updateUserTime.php" />
+        <option value="$PROJECT_DIR$/backend/src/lib/updateUserActiveTime.php" />
+        <option value="$PROJECT_DIR$/backend/src/login.php" />
+        <option value="$PROJECT_DIR$/backend/src/register.php" />
+        <option value="$PROJECT_DIR$/backend/src/lib/queryRoom.php" />
+        <option value="$PROJECT_DIR$/frontend/style/index.css" />
+        <option value="$PROJECT_DIR$/frontend/style/square.css" />
+        <option value="$PROJECT_DIR$/backend/src/requireFile.php" />
+        <option value="$PROJECT_DIR$/backend/src/lib/array_del.php" />
+        <option value="$PROJECT_DIR$/backend/src/waitting.php" />
+        <option value="$PROJECT_DIR$/frontend/template/squaretpl.php" />
+        <option value="$PROJECT_DIR$/backend/src/class/Database.php" />
+        <option value="$PROJECT_DIR$/backend/src/lib/listening.php" />
+        <option value="$PROJECT_DIR$/frontend/style/room.css" />
+        <option value="$PROJECT_DIR$/backend/src/lib/room.php" />
+        <option value="$PROJECT_DIR$/frontend/template/roomtpl.php" />
+        <option value="$PROJECT_DIR$/backend/src/class/SquareManager.php" />
+        <option value="$PROJECT_DIR$/backend/src/lib/addRoom.php" />
+        <option value="$PROJECT_DIR$/backend/src/listentest.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/backend/src/lib/databasesInit.php" />
+        <option value="$PROJECT_DIR$/backend/src/waiting.php" />
+        <option value="$PROJECT_DIR$/backend/src/class/CardManager.php" />
+        <option value="$PROJECT_DIR$/backend/src/lib/gameover.php" />
+        <option value="$PROJECT_DIR$/backend/src/test.php" />
+        <option value="$PROJECT_DIR$/backend/src/class/RoomManager.php" />
+        <option value="$PROJECT_DIR$/frontend/js/room.js" />
+        <option value="$PROJECT_DIR$/backend/src/listen.php" />
+        <option value="$PROJECT_DIR$/backend/src/lib/deleteRoom.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="card" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="card" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="card" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="card" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="card" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="card" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="card" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="card" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="sro&#9;ACTION&#9;ShowTabsInSingleRow" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AppServ\www\backend\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\www\backend\src\lib" />
+      <recent name="D:\www" />
+      <recent name="D:\www\backend\src" />
+      <recent name="D:\www\backend\src\class" />
+      <recent name="D:\www\Landlord\backend\src\class" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.test.php (1)">
+    <configuration default="false" name="listen.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/card/backend/src/listen.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="listen.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/backend/src/listen.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="test.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/backend/src/test.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="listentest.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/backend/src/listentest.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/../php7/php.exe">
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.listen.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.test.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.listen.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Script.test.php (1)" />
+      <item index="5" class="java.lang.String" itemvalue="PHP Script.listentest.php" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.test.php (1)" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.listen.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.test.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.listentest.php" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.listen.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1113b421-6f16-4704-8636-a87d9bbdeda0" name="Default" comment="" />
+      <created>1458919859874</created>
+      <option name="number" value="Default" />
+      <updated>1458919859874</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18532526" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2665615" sideWeight="0.34260616" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.060556464" sideWeight="0.6573939" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13249211" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0488959" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/js/room.js</url>
+          <line>104</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="42" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/backend/src/listen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="113" column="59" selection-start-line="113" selection-start-column="59" selection-end-line="113" selection-end-column="59" />
+          <folding>
+            <element signature="e#1064#6906#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/js/room.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="365" column="1" selection-start-line="365" selection-start-column="1" selection-end-line="365" selection-end-column="1" />
+          <folding>
+            <marker date="1459554326514" expanded="true" signature="371:805" placeholder="{...}" />
+            <marker date="1459554326514" expanded="true" signature="646:805" placeholder="{...}" />
+            <marker date="1459554326514" expanded="true" signature="713:787" placeholder="{...}" />
+            <marker date="1459554326514" expanded="true" signature="799:805" placeholder="{...}" />
+            <marker date="1459554326514" expanded="true" signature="8687:8809" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/requireFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="76" selection-start-line="12" selection-start-column="76" selection-end-line="12" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/lib/square.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/class/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <marker date="1459484151982" expanded="true" signature="717:772" placeholder="select userN..user..." />
+            <marker date="1459484151982" expanded="true" signature="1143:1191" placeholder="select * fro..user..." />
+            <marker date="1459484151982" expanded="true" signature="1462:1517" placeholder="select userN..user..." />
+            <marker date="1459484151982" expanded="true" signature="1747:1796" placeholder="select * fro..room..." />
+            <marker date="1459484151982" expanded="true" signature="1954:2002" placeholder="select * fro..user..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/requireFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="76" selection-start-line="12" selection-start-column="76" selection-end-line="12" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/lib/square.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/class/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <marker date="1459484151982" expanded="true" signature="717:772" placeholder="select userN..user..." />
+            <marker date="1459484151982" expanded="true" signature="1143:1191" placeholder="select * fro..user..." />
+            <marker date="1459484151982" expanded="true" signature="1462:1517" placeholder="select userN..user..." />
+            <marker date="1459484151982" expanded="true" signature="1747:1796" placeholder="select * fro..room..." />
+            <marker date="1459484151982" expanded="true" signature="1954:2002" placeholder="select * fro..user..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/json.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5277247">
+          <caret line="88" column="9" selection-start-line="88" selection-start-column="9" selection-end-line="88" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/img/logo/farmer.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/template/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0880829">
+          <caret line="3" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/lib/userProfile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23488773">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.46039605">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/lib/updateUserActiveTime.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13178295">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/style/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14078675">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/style/square.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49620253">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24248926">
+          <caret line="496" column="9" selection-start-line="496" selection-start-column="9" selection-end-line="496" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/requireFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48056537">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/lib/array_del.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5055762">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/js/square.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44320297">
+          <caret line="138" column="52" selection-start-line="138" selection-start-column="19" selection-end-line="138" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/lib/square.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46575344">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36594912">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/class/UserManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.029360967">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/style/room.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-98.07692">
+          <caret line="303" column="0" selection-start-line="303" selection-start-column="0" selection-end-line="303" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/template/squaretpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="8.5">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/template/roomtpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34715027">
+          <caret line="491" column="24" selection-start-line="491" selection-start-column="24" selection-end-line="491" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/lib/room.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.115385">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/lib/addRoom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.464286">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/lib/queryRoom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/lib/databasesInit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538">
+          <caret line="73" column="54" selection-start-line="73" selection-start-column="54" selection-end-line="73" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/waiting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.125">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/lib/listening.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6748582">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/class/SquareManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.6351607">
+          <caret line="87" column="24" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/class/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="35" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="35" />
+          <folding>
+            <marker date="1459484151982" expanded="true" signature="717:772" placeholder="select userN..user..." />
+            <marker date="1459484151982" expanded="true" signature="1143:1191" placeholder="select * fro..user..." />
+            <marker date="1459484151982" expanded="true" signature="1462:1517" placeholder="select userN..user..." />
+            <marker date="1459484151982" expanded="true" signature="1747:1796" placeholder="select * fro..room..." />
+            <marker date="1459484151982" expanded="true" signature="1954:2002" placeholder="select * fro..user..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/lib/gameover.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <marker date="1459527327505" expanded="true" signature="752:794" placeholder="delete from ..." />
+            <marker date="1459527327505" expanded="true" signature="861:907" placeholder="delete from ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/class/CardManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <marker date="1459523230519" expanded="true" signature="751:911" placeholder="delete from ..." />
+            <marker date="1459523230519" expanded="true" signature="2138:2236" placeholder="select cardL..card..." />
+            <marker date="1459523230519" expanded="true" signature="2532:2625" placeholder="select roomP..room..." />
+            <marker date="1459523230519" expanded="true" signature="3114:3212" placeholder="select cardL..card..." />
+            <marker date="1459523230519" expanded="true" signature="3581:3704" placeholder="update card ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/class/RoomManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="387" column="0" selection-start-line="387" selection-start-column="0" selection-end-line="387" selection-end-column="0" />
+          <folding>
+            <element signature="e#433#511#0#PHP" expanded="false" />
+            <element signature="e#559#608#0#PHP" expanded="false" />
+            <element signature="e#815#982#0#PHP" expanded="false" />
+            <element signature="e#986#1155#0#PHP" expanded="false" />
+            <element signature="e#1159#1178#0#PHP" expanded="false" />
+            <element signature="e#1500#2455#0#PHP" expanded="false" />
+            <element signature="e#1598#1935#0#PHP" expanded="false" />
+            <element signature="e#1618#1719#0#PHP" expanded="false" />
+            <element signature="e#1723#1824#0#PHP" expanded="false" />
+            <element signature="e#1828#1931#0#PHP" expanded="false" />
+            <element signature="e#2021#2434#0#PHP" expanded="false" />
+            <element signature="e#2041#2139#0#PHP" expanded="false" />
+            <element signature="e#2165#2434#0#PHP" expanded="false" />
+            <element signature="e#2185#2283#0#PHP" expanded="false" />
+            <element signature="e#2304#2434#0#PHP" expanded="false" />
+            <element signature="e#2316#2416#0#PHP" expanded="false" />
+            <element signature="e#2458#2501#0#PHP" expanded="false" />
+            <element signature="e#2503#2969#0#PHP" expanded="false" />
+            <element signature="e#2701#2927#0#PHP" expanded="false" />
+            <element signature="e#2734#2828#0#PHP" expanded="false" />
+            <element signature="e#2832#2923#0#PHP" expanded="false" />
+            <element signature="e#2972#3039#0#PHP" expanded="false" />
+            <element signature="e#3041#3295#0#PHP" expanded="false" />
+            <element signature="e#3298#3992#0#PHP" expanded="false" />
+            <element signature="e#3996#4029#0#PHP" expanded="false" />
+            <element signature="e#4184#4287#0#PHP" expanded="false" />
+            <element signature="e#4330#4386#0#PHP" expanded="false" />
+            <element signature="e#4388#5456#0#PHP" expanded="false" />
+            <element signature="e#4687#5186#0#PHP" expanded="false" />
+            <element signature="e#4732#4948#0#PHP" expanded="false" />
+            <element signature="e#4860#4948#0#PHP" expanded="false" />
+            <element signature="e#4955#5186#0#PHP" expanded="false" />
+            <element signature="e#4967#5182#0#PHP" expanded="false" />
+            <element signature="e#5094#5182#0#PHP" expanded="false" />
+            <element signature="e#5394#5439#0#PHP" expanded="false" />
+            <element signature="e#5459#5489#0#PHP" expanded="false" />
+            <element signature="e#5759#5790#0#PHP" expanded="false" />
+            <element signature="e#5971#6016#0#PHP" expanded="false" />
+            <element signature="e#6329#6361#0#PHP" expanded="false" />
+            <element signature="e#6505#6539#0#PHP" expanded="false" />
+            <element signature="e#6546#6704#0#PHP" expanded="false" />
+            <element signature="e#6616#6700#0#PHP" expanded="false" />
+            <element signature="e#6668#6700#0#PHP" expanded="false" />
+            <element signature="e#6710#6768#0#PHP" expanded="false" />
+            <element signature="e#6890#6949#0#PHP" expanded="false" />
+            <element signature="e#6951#7192#0#PHP" expanded="false" />
+            <element signature="e#7137#7176#0#PHP" expanded="false" />
+            <element signature="e#7195#7236#0#PHP" expanded="false" />
+            <element signature="e#7510#7539#0#PHP" expanded="false" />
+            <element signature="e#7541#7690#0#PHP" expanded="false" />
+            <marker date="1459531946176" expanded="true" signature="664:725" placeholder="select roomP..room..." />
+            <marker date="1459531946176" expanded="false" signature="686:696" placeholder="select roomT..room..." />
+            <marker date="1459531946176" expanded="false" signature="835:896" placeholder="select roomP..room..." />
+            <marker date="1459531946176" expanded="false" signature="1006:1069" placeholder="select roomP..room..." />
+            <marker date="1459531946176" expanded="true" signature="1254:1287" placeholder="select cardL..." />
+            <marker date="1459531946176" expanded="true" signature="1254:1298" placeholder="select cardL..card..." />
+            <marker date="1459531946176" expanded="true" signature="1254:1310" placeholder="select cardL..card..." />
+            <marker date="1459531946176" expanded="true" signature="1254:1312" placeholder="select cardL..card..." />
+            <marker date="1459531946176" expanded="true" signature="1254:1318" placeholder="select cardL..card..." />
+            <marker date="1459531946176" expanded="true" signature="1254:1348" placeholder="select cardL..card..." />
+            <marker date="1459531946176" expanded="false" signature="1638:1705" placeholder="select roomP..room..." />
+            <marker date="1459531946176" expanded="false" signature="1743:1810" placeholder="select roomP..room..." />
+            <marker date="1459531946176" expanded="false" signature="1848:1917" placeholder="select roomP..room..." />
+            <marker date="1459531946176" expanded="false" signature="2569:2601" placeholder="select roomT..room..." />
+            <marker date="1459531946176" expanded="false" signature="3426:3552" placeholder="update user ..." />
+            <marker date="1459531946176" expanded="false" signature="3603:3729" placeholder="update user ..." />
+            <marker date="1459531946176" expanded="false" signature="3780:3906" placeholder="update user ..." />
+            <marker date="1459531946176" expanded="false" signature="4080:4142" placeholder="select roomT..room..." />
+            <marker date="1459531946176" expanded="false" signature="5198:5342" placeholder="update room ..." />
+            <marker date="1459531946176" expanded="true" signature="5539:5598" placeholder="select roomD..room..." />
+            <marker date="1459531946176" expanded="true" signature="5836:5892" placeholder="select lordI..room..." />
+            <marker date="1459531946176" expanded="false" signature="7011:7086" placeholder="update room ..." />
+            <marker date="1459531946176" expanded="true" signature="7289:7354" placeholder="select roomP..room..." />
+            <marker date="1459531946176" expanded="false" signature="8264:8339" placeholder="select userL..user..." />
+            <marker date="1459531946176" expanded="false" signature="8521:8636" placeholder="select roomP..room..." />
+            <marker date="1459531946176" expanded="false" signature="9484:9524" placeholder="update room ..." />
+            <marker date="1459531946176" expanded="false" signature="9484:9564" placeholder="update room ..." />
+            <marker date="1459531946176" expanded="false" signature="9484:9566" placeholder="update room ..." />
+            <marker date="1459531946176" expanded="false" signature="9640:9720" placeholder="update room ..." />
+            <marker date="1459531946176" expanded="false" signature="9796:9878" placeholder="update room ..." />
+            <marker date="1459531946176" expanded="false" signature="9997:10071" placeholder="select roomP..room..." />
+            <marker date="1459531946176" expanded="false" signature="9997:10090" placeholder="select roomP..room..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/js/room.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="201" column="26" selection-start-line="201" selection-start-column="26" selection-end-line="201" selection-end-column="26" />
+          <folding>
+            <marker date="1459554326514" expanded="true" signature="371:805" placeholder="{...}" />
+            <marker date="1459554326514" expanded="true" signature="646:805" placeholder="{...}" />
+            <marker date="1459554326514" expanded="true" signature="713:787" placeholder="{...}" />
+            <marker date="1459554326514" expanded="true" signature="799:805" placeholder="{...}" />
+            <marker date="1459554326514" expanded="true" signature="8687:8809" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/listen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.961538">
+          <caret line="213" column="16" selection-start-line="213" selection-start-column="16" selection-end-line="213" selection-end-column="16" />
+          <folding>
+            <element signature="e#1064#6906#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/lib/deleteRoom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3642857">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <marker date="1459554634252" expanded="true" signature="171:206" placeholder="delete from ..." />
+            <marker date="1459554634252" expanded="true" signature="252:291" placeholder="delete from ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

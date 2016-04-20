@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>斗地主</title>
+    <link rel="stylesheet" href="frontend/style/index.css" />
+    <script type="application/javascript" src="frontend/js/jquery-1.7.1.min.js"></script>
+    <script type="application/javascript" src="frontend/js/index.js"></script>
+</head>
+<body>
+    <div class="header">
+        <img src="frontend/img/logo/banner_logo.png" id="banner_logo" >
+        <span id="banner_title">斗地主</span>
+    </div>
+    <div class="body">
+       <div class="logOrReg">
+           <div class="nav">
+               <a href="#" id="loginBtn" class="navtitle focus" >登陆</a>
+               <a href="#" id="registerBtn" class="navtitle" >注册</a>
+           </div>
+           <div class="pannel" id="login" style="display: block">
+                  <form action="backend/src/login.php" method="post">
+                      <div class="input">
+                          <div class="inputUserName name">
+                              <input type="text" class="userName" name="loginName" aria-label="登陆用户名" placeholder="登陆用户名" >
+                          </div>
+                          <div class="inputUserPsw psw">
+                              <input type="password" class="userPsw" name="loginPsw" aria-label="登陆密码" placeholder="登陆密码" required="">
+                          </div>
+                      </div>
+                      <div class="loginBtn">
+                          <input type="submit" class="submitBtn hover" name="singin" value="登陆">
+                      </div>
+                  </form>
+           </div>
+           <div class="pannel" id="register" style="display: none">
+               <form action="backend/src/register.php" method="post">
+                       <div class="register">
+                           <div class="registerUserName name">
+                               <input type="text" class="userName" name="registerName" aria-label="注册用户名" placeholder="注册用户名">
+                           </div>
+                           <div class="registerUserPsw psw">
+                               <input type="password" class="userPsw" name="registerPsw" aria-label="密码" placeholder="注册密码" required="">
+                           </div>
+                       </div>
+                       <div class="loginBtn">
+                           <input type="submit" class="submitBtn hover" name="singup" value="注册">
+                       </div>
+                   </form>
+           </div>
+       </div>
+    </div>
+    <div class="footer"></div>
+</body>
+</html>
