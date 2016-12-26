@@ -1,5 +1,5 @@
 <?php
-	require_once '/lib/databasesInit.php';
+	require_once 'lib/databasesInit.php';
 	require_once 'class/Database.php';
 	require_once 'class/SquareManager.php';
 	require_once 'class/UserManager.php';
